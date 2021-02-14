@@ -1,0 +1,136 @@
+{
+  "modStatus": {
+    "MW5Compatibility": {
+      "bEnabled": true
+    },
+    "Cockpit_HD": {
+      "bEnabled": true
+    },
+    "MechNormal_HD": {
+      "bEnabled": true
+    },
+    "Grass_fix": {
+      "bEnabled": true
+    },
+    "MechShader_Dull": {
+      "bEnabled": true
+    },
+    "SMMO": {
+      "bEnabled": true
+    },
+    "WeatherFixMod": {
+      "bEnabled": true
+    },
+    "Atlas_eyeglow": {
+      "bEnabled": true
+    },
+    "TTRulez_AI": {
+      "bEnabled": true
+    },
+    "TTRulez_AILanceMate": {
+      "bEnabled": true
+    },
+    "RWV_128MM": {
+      "bEnabled": true
+    },
+    "3D_HUD": {
+      "bEnabled": true
+    },
+    "Extended_Mechlab": {
+      "bEnabled": true
+    },
+    "YetAnotherReloadedMech": {
+      "bEnabled": true
+    },
+    "YetAnotherWeapon": {
+      "bEnabled": true
+    },
+    "Kh0rnsSoundmod": {
+      "bEnabled": true
+    },
+    "CampaignStart": {
+      "bEnabled": true
+    },
+    "MoreLevels": {
+      "bEnabled": true
+    },
+    "MPU": {
+      "bEnabled": true
+    },
+    "UltraWide_Fix": {
+      "bEnabled": false
+    },
+    "Obscure_IS_Weapons": {
+      "bEnabled": true
+    },
+    "RemoveJumpShipAnimation": {
+      "bEnabled": true
+    },
+    "TTRulez_WarzoneMod": {
+      "bEnabled": false
+    },
+    "MechSpecialAbilities": {
+      "bEnabled": true
+    },
+    "Missionsfb": {
+      "bEnabled": true
+    },
+    "LastManStanding_GetBJ_Mod": {
+      "bEnabled": true
+    },
+    "Renegotiate": {
+      "bEnabled": true
+    },
+    "Paint theme saving": {
+      "bEnabled": true
+    },
+    "EW2680M CUSTOM": {
+      "bEnabled": true
+    },
+    "MW5Mercs-Z007-scale": {
+      "bEnabled": false
+    },
+    "Better Mech Descriptions": {
+      "bEnabled": true
+    },
+    "TravelCost2": {
+      "bEnabled": true
+    },
+    "UltraVisualAndWeather": {
+      "bEnabled": true
+    },
+    "CockpitGlass": {
+      "bEnabled": true
+    },
+    "ASSETS": {
+      "bEnabled": true
+    },
+    "BMHP10": {
+      "bEnabled": true
+    },
+    "GEHIRNHELM III": {
+      "bEnabled": true
+    },
+    "IMMERSIVE HUD SFX": {
+      "bEnabled": true
+    },
+    "LOWFI PORTRAITS": {
+      "bEnabled": true
+    },
+    "NH1CC": {
+      "bEnabled": true
+    },
+    "NK1J": {
+      "bEnabled": true
+    },
+    "REMIXED MUSIC": {
+      "bEnabled": true
+    },
+    "MaxTonnage": {
+      "bEnabled": true
+    },
+    "BetterSpawnMod": {
+      "bEnabled": true
+    }
+  }
+}
